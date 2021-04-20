@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="file:Ejemplo1.xsl"?>
+<grupos>
+
+
+    <grupos>
+      <nombre>(G) I-DLE</nombre>
+      <ventas>151.108</ventas>
+    </grupo>
+    
+    <grupo>
+      <nombre>SUPER JUNIOR KRY</nombre>
+      <ventas>152.148</ventas>
+    </grupo>
+    
+    <grupo>
+      <nombre>Stray Kids</nombre>
+      <ventas>243.462</ventas>
+    </grupo>
+    
+</grupos>
